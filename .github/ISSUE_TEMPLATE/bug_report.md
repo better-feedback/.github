@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: Bug Report
 description: File a bug/issue
 title: '[bug] <title>'
@@ -57,7 +48,7 @@ body:
       label: 🌐 Link to Minimal Reproducible Example or URL
       description: |
         This makes investigating issues and helping you out significantly easier! For most issues, you will likely get asked to provide one so why not add one now :)
-      placeholder: https://app.betterhq.com/
+      placeholder: https://app.betterhq.org/
     validations:
       required: false
 
